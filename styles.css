@@ -212,7 +212,7 @@ a {
 
   #hamburger-icon {
     display: block;
-    padding-right: 1em;
+    margin-left: auto;
   }
 
   header {
