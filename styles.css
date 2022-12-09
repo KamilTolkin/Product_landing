@@ -10,6 +10,7 @@ body {
   font-family: "Lato", sans-serif;
   padding: 8px;
   margin-top: 90px;
+  width: 100vw;
 }
 
 header a {
